@@ -42,6 +42,12 @@ yarn-error.log*
 # unused generated component
 /src/components/ui/switch.tsx
 
+# unused high-resolution artwork kept locally
+/public/death-note/reaper-2000.png
+/public/death-note/skull-2000.png
+/public/death-note/skull-500.png
+/public/death-note/wing-mark-2000.png
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
